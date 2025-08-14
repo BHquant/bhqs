@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { supabase } from '../../lib/supabaseClient'
+import { supabase } from '../../lib/supabaseClient'  // <— RELATIVE path
 
 export default function AppHome() {
   const [email, setEmail] = useState<string | null>(null)
