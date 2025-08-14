@@ -13,11 +13,10 @@
     "@supabase/supabase-js": "2.45.4",
     "tailwindcss": "3.4.10",
     "postcss": "8.4.41",
-    "autoprefixer": "10.4.20"
-  },
-  "devDependencies": {
+    "autoprefixer": "10.4.20",
     "typescript": "5.4.5",
     "@types/react": "18.2.64",
+    "@types/react-dom": "18.2.22",
     "@types/node": "20.11.30"
   }
 }
